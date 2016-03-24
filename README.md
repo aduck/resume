@@ -49,7 +49,7 @@
 </dl>
 <a href="https://github.com/aduck">更多案例请访问github</a>
 
-<p>个人简介</p>
+<b>个人简介</b>
 <ul>
   <li>姓名：韩亚亚</li>
   <li>年龄：24</li>
