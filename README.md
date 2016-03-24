@@ -16,6 +16,10 @@
   <dd>
     当时做这个的时候比较赶，甚至设计图都没有给到==！项目要求每人只能选择两件，可以重复，需要有添加商品、删除商品功能，有单独的层可以查看已经选择的商品。最主要的是添加和删除提醒，用的是弹层的方式，没有抽象成库，难点在于度数选择判断和数据同步，主要通过数据主导渲染dom，这样不会导致数据和dom不一
   </dd>
+  <dt><a href="http://m.easeeyes.com/active20160205.html#rd?sukey=014c68f407f2d3e181b6b5e665f26ab7971fdd301c4d17823f975b653b1d0bf6b518637bdddc609e94c63577bb8c7022">微信页面抽奖功能</a></dt>
+  <dd>
+    一个跑马灯效果的抽奖脚本，难点在于控制加速、减速、圈数计算，预先生成随机数
+  </dd>
   <dt><a href="https://github.com/aduck/YJS/blob/master/Y.js">网站通用功能库Y.js</a></dt>
   <dd>
     包含选择器、ajax模块、cookie模块、localstorage本地数据管理、loadScript脚本加载、random随机性相关模块等，兼容IE6+
